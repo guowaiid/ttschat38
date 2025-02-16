@@ -1,0 +1,8 @@
+{
+  "name": "openai-tts",
+  "version": "1.0.0",
+  "main": "api/tts.js",
+  "dependencies": {
+    "openai": "^3.0.0"
+  }
+}
